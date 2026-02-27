@@ -11,6 +11,7 @@
 
 # Hola! 👋 mucho gusto. #
 
+![Banner](https://github.com/user-attachments/assets/4f622582-a245-4746-95c4-a854553d8001)
 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
